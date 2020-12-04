@@ -1,15 +1,18 @@
 "Pets": [
     {
-      "id": 1,
-      "PhoneNumber": "Post 1"
+      "Petid": 10000001 ,
+      "PhoneNumber": 3000000001,
+      "PetName" : 'A'
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "Petid": 10000002 ,
+      "PhoneNumber": 3000000002,
+      "PetName" : 'B'
     },
-    {
-      "id": 3,
-      "title": "Post 3"
+     {
+      "Petid": 10000003 ,
+      "PhoneNumber": 3000000003,
+      "PetName" : 'C'
     }
   ],
   "comments": [
