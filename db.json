@@ -5,5 +5,5 @@
     { "id": 1, "PetID": 10000001, "Phone": 3000000001 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }]
 }
